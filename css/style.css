@@ -221,7 +221,7 @@ opacity: 0.8; */
 .container {
   position: relative;
   font-family: Arial;
-  
+
 }
 
 .text-block {
@@ -310,7 +310,8 @@ opacity: 0.8; */
 
 .packagesTitle {
   text-align: center;
-  
+  font: normal normal normal 35px/44px Dosis;
+
 
 
 }
@@ -524,7 +525,7 @@ opacity: 0.8; */
   color: #e5FEFF;
   background-color: #000324;
   height: 20rem;
-  
+
 
 
 }
@@ -546,7 +547,7 @@ opacity: 0.8; */
   height: ;
 }
 
-.enjoy{
+.enjoy {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
   color: white;
@@ -555,7 +556,7 @@ opacity: 0.8; */
 
 .Reserve {
   text-align: center;
- 
+
 }
 
 .btn-primary {
@@ -575,8 +576,8 @@ opacity: 0.8; */
 }
 
 .rowPad {
- margin-top: 2rem;
-font-size: large;
+  margin-top: 2rem;
+  font-size: large;
 
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
@@ -590,47 +591,60 @@ font-size: large;
 
   max-width: 1052px;
 }
-.btn-primary1{
+
+.btn-primary1 {
   size: 30rem;
 }
-.service{
-color: #e5FEFF;
-font-size: 20px;
-}
-.buu{
+
+.service {
   color: #e5FEFF;
   font-size: 20px;
- 
+}
+
+.buu {
+  color: #e5FEFF;
+  font-size: 20px;
+
   padding: 1rem;
 
- 
 
-}.buuu{
-  margin-left: 5rem ;
+
+}
+
+.buuu {
+  margin-left: 5rem;
   padding-left: 150px;
   padding-right: 100px;
   font: normal normal bold 20px/25px Source Sans Pro;
-letter-spacing: 0px;
-color: #FFFFFF;
-opacity: 1;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
 
 
 }
-.titless{
+
+.titless {
   color: #EBEDFC;
   font-size: 20px;
 
 
 }
-.burimg{
+
+.burimg {
   padding-left: 2rem;
 }
-.Img3{
+
+.Img3 {
   box-sizing: border-box;
 }
-.col6{
+
+.col6 {
   height: 3rem;
 }
-.bluee{
+
+.bluee {
   color: #1F51A8;
+}
+.i{
+  font: normal normal normal 25px/32px Dosis;
 }
