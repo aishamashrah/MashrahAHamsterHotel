@@ -221,7 +221,7 @@ opacity: 0.8; */
 .container {
   position: relative;
   font-family: Arial;
-  box-sizing: var(--bs-gutter-x);
+  
 }
 
 .text-block {
@@ -276,7 +276,6 @@ opacity: 0.8; */
   justify-content: center;
   height: 7rem;
   padding-bottom: 1rem;
-  
 
 
 
